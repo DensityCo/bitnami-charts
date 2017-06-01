@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  memcached:
+  - created: 2017-06-01T11:07:48.486199367-04:00
+    description: Chart for Memcached
+    digest: 42f464e8f5ec1fe943e3d4f900eabf803f52c565e565979a06dfa3ed655d6707
+    engine: gotpl
+    home: http://memcached.org/
+    icon: https://bitnami.com/assets/stacks/memcached/img/memcached-stack-110x117.png
+    keywords:
+    - memcached
+    - cache
+    maintainers:
+    - email: containers@bitnami.com
+      name: Bitnami
+    name: memcached
+    sources:
+    - https://github.com/bitnami/bitnami-docker-memcached
+    urls:
+    - https://densityco.github.io/charts-1/memcached-0.4.10.tgz
+    version: 0.4.10
+generated: 2017-06-01T11:07:48.485753929-04:00
